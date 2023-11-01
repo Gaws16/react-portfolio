@@ -9,22 +9,21 @@ export default function Hobbies() {
           </h1>
           <p className="w-1/2 m-auto">
             I think it&apos;s time to introduce you to the other side of me. I
-            used to be the fat kid all my life. When you are overweight, life
+            used to be a fat kid all my life. When you are overweight, life
             isn&apos;t exactly smooth. From battling unsolicited comments and
             the judgmental stares at health conditions that stem from all the
             extra kilos. I always thought that my weight didn&apos;t matter. I
-            didn&apos;t think it was a problem, i didnt&apos;t think that i need
-            a change. But that changed when I decided to sign up for a local
-            half-marathon. At the time I was 100 kg, and honestly i didn&apos;t
-            now what i was signing up for. I barely managed to finish it,and
-            quickly realised in how bad of a shape i was. Then just something
-            clicked in me, and I realised that if I didn&apos;t change my life,
-            it would just get worse and worse. I promised myself that I would go
-            back next year to the same race, but that time I would be prepared,
-            that time I wouldn&apos;t struggle, and that time I would be
-            different. <br />
-            And that is how the passion for running was born. <br />
-            The rest is history.
+            didn&apos;t think it was a problem, I didnt&apos;t think that I
+            needed a change. But that changed when I decided to sign up for a
+            local half-marathon. At the time I was 100 kg, and honestly, I
+            didn&apos;t know what I was signing up for. I barely managed to
+            finish it,and quickly realised in how bad of a shape I was. Then
+            something just clicked into me, and I realised that if I didn&apos;t
+            change my life, it would just get worse and worse. I promised myself
+            that I would go back next year to the same race, but that time I
+            would be prepared, that time I wouldn&apos;t struggle, and that time
+            I would be different. And that is how the passion for running was
+            born. The rest is history.
           </p>
         </div>
         <div className="imgContainer grid grid-cols-2">
