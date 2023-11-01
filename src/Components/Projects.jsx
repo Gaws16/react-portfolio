@@ -13,7 +13,7 @@ const projects = [
     description:
       "React Login Form, using MongoDB and a restfull API, ReactRouter",
     image: "../public/auth2.gif",
-    link: "https://gaws-portfolio.netlify.app/",
+    link: "https://gaws-auth-mongodb.netlify.app/",
   },
   {
     title: "Live data tracking",
