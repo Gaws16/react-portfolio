@@ -3,11 +3,7 @@ export default function Hobbies() {
     <div id="hobbies" className="text-gray-400  bg-gray-900 body-font mb-10">
       <section className="flex flex-col w-full justify-center items-center">
         <div className="header items-center text-center mb-8">
-          <img
-            src="../public/medal-solid.svg"
-            alt="medal"
-            className="w-14 m-auto"
-          />
+          <img src="./medal-solid.svg" alt="medal" className="w-14 m-auto" />
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             More About me
           </h1>
@@ -48,12 +44,12 @@ export default function Hobbies() {
             className="w-9/12 items-center m-auto rounded-xl "
           />
           <div className=" items-center m-auto p-4 w-11/12">
-            <p className=" text-3xl">
+            <p className=" lg:text-3xl">
               Tarnovo ultra - the begining, after the change.
             </p>
           </div>
           <div className=" items-center m-auto p-4 w-11/12">
-            <p className=" text-3xl">
+            <p className=" lg:text-3xl">
               Kodja Kaq - first encounter with &quot;the wall&quot;. A lot of
               lessons learned.
             </p>
@@ -69,7 +65,7 @@ export default function Hobbies() {
             className="w-9/12 items-center m-auto rounded-xl "
           />
           <div className=" items-center m-auto p-4 w-11/12">
-            <p className=" text-3xl">
+            <p className=" lg:text-3xl">
               Trqvna Ultra - Came in prepared, turns out there is still a lot of
               lessons to learn.
             </p>
