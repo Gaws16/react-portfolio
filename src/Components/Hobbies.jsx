@@ -33,17 +33,17 @@ export default function Hobbies() {
         </div>
         <div className="imgContainer grid grid-cols-2">
           <img
-            src="../public/plovdiv2.jpg"
+            src="./plovdiv2.jpg"
             alt=""
             className="w-9/12  items-center m-auto rounded-xl mb-8 "
           />
           <img
-            src="../public/Sofia3.jpg"
+            src="./sofia3.jpg"
             alt=""
             className="w-10/12 items-center m-auto rounded-xl mb-8 "
           />
           <img
-            src="../public/tarnovo.jpg"
+            src="./tarnovo.jpg"
             alt=""
             className="w-9/12 items-center m-auto rounded-xl "
           />
@@ -59,12 +59,12 @@ export default function Hobbies() {
             </p>
           </div>
           <img
-            src="../public/kodjakaq.jpg"
+            src="./kodjakaq.jpg"
             alt=""
             className="w-9/12 items-center m-auto rounded-xl "
           />
           <img
-            src="../public/trqvna.jpg"
+            src="./trqvna.jpg"
             alt=""
             className="w-9/12 items-center m-auto rounded-xl "
           />

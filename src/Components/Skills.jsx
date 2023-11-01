@@ -55,7 +55,7 @@ const skills = [
   },
   {
     name: "Express.js",
-    icon: <img alt="Plugin Logo" src="../public/ex.svg" className="w-6"></img>,
+    icon: <img alt="Plugin Logo" src="./ex.svg" className="w-6"></img>,
   },
 
   {
@@ -176,13 +176,7 @@ const skills = [
   },
   {
     name: "EF Core",
-    icon: (
-      <img
-        alt="Plugin Logo"
-        src="../public/pluginIcon.svg"
-        className="w-6"
-      ></img>
-    ),
+    icon: <img alt="Plugin Logo" src="./pluginIcon.svg" className="w-6"></img>,
   },
 ];
 

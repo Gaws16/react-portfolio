@@ -5,14 +5,14 @@ const projects = [
     title: "React Travel List",
     subtitle: "Travel List",
     description: "Fundamental react project, practicing state management.",
-    image: "../public/travel2.gif",
+    image: "./travel2.gif",
   },
   {
     title: "React MongoDB Login Form",
     subtitle: "LoginForm",
     description:
       "React Login Form, using MongoDB and a restfull API, ReactRouter",
-    image: "../public/auth2.gif",
+    image: "./auth2.gif",
     link: "https://gaws-auth-mongodb.netlify.app/",
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     subtitle: "RaceTracking",
     description:
       "Tracking live data with RFID and ESP32, seding requests to a restfull API, collecting the data with MongoDB and displaying it with the help of React(work in progress)",
-    image: "../public/tugab2.gif",
+    image: "./tugab2.gif",
   },
 ];
 
